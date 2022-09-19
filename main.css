@@ -1,0 +1,90 @@
+header {
+    background-color: #6e1818;
+    width: 100%;
+    height: 200px;
+}
+
+footer {
+    background-color: #311b8a;
+    width: 100%;
+    height: 100px;
+}
+
+.collapsed-table {
+    border-collapse: collapse;
+}
+
+/* Random cell bg colors */
+#cell1 {
+    background-color: #6bd29f;
+}
+#cell2 {
+    background-color: #929fb3;
+}
+#cell3 {
+    background-color: #b31221;
+}
+#cell4 {
+    background-color: #a53e8a;
+}
+#cell5 {
+    background-color: #e889e3;
+}
+#cell6 {
+    background-color: #da23c7;
+}
+#cell7 {
+    background-color: #f65101;
+}
+#cell8 {
+    background-color: #29f427;
+}
+#cell9 {
+    background-color: #496ed2;
+}
+#cell10 {
+    background-color: #35bf16;
+}
+#cell11 {
+    background-color: #2b22ea;
+}
+#cell12 {
+    background-color: #bf94fc;
+}
+#cell13 {
+    background-color: #ce232b;
+}
+#cell14 {
+    background-color: #e9a141;
+}
+#cell15 {
+    background-color: #77431e;
+}
+#cell16 {
+    background-color: #1e7706;
+}
+/* Random word bg colors */
+#word1 {
+    background-color: #3e65a7;
+}
+#word3 {
+    background-color: #c0d8a6;
+}
+#word5 {
+    background-color: #7ff86c;
+}
+#word7 {
+    background-color: #5f38eb;
+}
+#word9 {
+    background-color: #59320a;
+}
+#word11 {
+    background-color: #88c1c8;
+}
+#word13 {
+    background-color: #d5e327;
+}
+#word15 {
+    background-color: #30186e;
+}
