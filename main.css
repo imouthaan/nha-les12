@@ -13,6 +13,10 @@ footer {
 .collapsed-table {
     border-collapse: collapse;
 }
+.collapsed-table td {
+    width: 150px;
+    text-align: center;
+}
 
 /* Random cell bg colors */
 #cell1 {
